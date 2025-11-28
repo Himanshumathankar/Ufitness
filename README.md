@@ -124,13 +124,4 @@ Test setup:
 - JUnit 5  
 - Mocked services and repositories  
 - Integration tests  
-
-## Screenshots
-Place screenshots in the `/screenshots` folder.
-
-Recommended:
-- Login Page  
-- Weight Tracking  
-- Food Logging  
-- Exercise Search  
-- Charts and Reports  
+ 
